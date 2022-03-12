@@ -1,3 +1,5 @@
+Kickstarter Challenge 
+
 1. Rename the StarterBook.xlsx file you have been working with in this module: Kickstarter_Challenge.xlsx.
 
 2. Create a folder called “resources” to hold the PNGs of the two charts you will create.
